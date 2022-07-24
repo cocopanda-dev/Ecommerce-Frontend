@@ -1,15 +1,11 @@
-# Welcome to cfGroup!
+# Welcome to our Ecommerce Project!
 
-# Project folder structures
+# Group members: Chao Fan, Jialin Yun, Peidong He
 
-- src
-  - components
-    - xxx.jsx
-    - shared
-      - xxx.jsx - components (可以被其它 components 反复借用的内部 components)
-  - styles
-    - xx.scss (import from here)
-  - pages (Router 需要导向的页面）
-    - xxxPage.jsx
-  - const.js (any data/objects or hardCode will be put here)
-  - actions/reducers
+# Checkout this website:
+
+1. run <code>npm i</code> to install npm packages first
+2. run project on your localHost server: <code>npm run dev</code>
+   Done! feel free to checkout all the functions and please email me if you have any suggestions! Thank you!
+
+Email: fotdw1991@gmail.com
