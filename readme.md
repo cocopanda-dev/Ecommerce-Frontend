@@ -13,6 +13,6 @@
    You should be good to go!
    <br />
    <br />
-   Feel free to checkout all the functions and please email me if you have any suggestions! Thank you!
+   Feel free to explore and email me if you have any suggestions! Thank you!
 
 Email: fotdw1991@gmail.com
